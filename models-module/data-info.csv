@@ -1,0 +1,8 @@
+,subjid,brainPath,groundTruthPath
+0,subj-01,dataset/subj-01_brain.nii.gz,0
+1,subj-02,dataset/subj-02_brain.nii.gz,1
+2,subj-03,dataset/subj-03_brain.nii.gz,0
+3,subj-02,dataset/subj-04_brain.nii.gz,1
+4,subj-03,dataset/subj-05_brain.nii.gz,0
+5,subj-02,dataset/subj-06_brain.nii.gz,1
+6,subj-03,dataset/subj-07_brain.nii.gz,0
