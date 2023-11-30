@@ -3,7 +3,7 @@
 
 ## Description
 
-This toy example shows the basic code structure for of a Deep Learning classification task.
+This is a toy example that shows the basic code structure for training a Deep Learning model for a classification task.
 
 Specifically, it shows how to train a basic 3D ResNet for a brain classification task using Pytorch Lightning. 
 
@@ -18,5 +18,11 @@ The code is organized in different modules:
 - MOdels Module (/models-module)
 - Main Module (/main-module)
 
-We also have the information of a toy dataset:
+The information of a toy dataset is stored in the following file:
 - data-info.csv
+
+The packages required for running the code are listed in:
+- requirements.txt
+
+To install them in your virtual enviroment type:
+- pip install -r requirements.txt
